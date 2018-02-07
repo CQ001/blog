@@ -1,22 +1,22 @@
 # Site settings
-title: Cyclone77
-SEOTitle: Cyclone77's Blog
+title: CQ001
+SEOTitle: CQ001's Blog
 header-img: img/home-bg-f.jpg
-email: fillchar@live.com
+email: 643061480@qq.com
 description: ""
 keyword: ""
-url: "cyclone77.github.io"              # your host, for absolute URL
+url: "CQ001.github.io"              # your host, for absolute URL
 baseurl: ""         # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 
 # SNS settings
 RSS: false
-#weibo_username:     cyclone77
-#zhihu_username:     cyclone77
-github_username:    cyclone77
+#weibo_username:     CQ001
+#zhihu_username:     CQ001
+github_username:    CQ001
 #twitter_username:  huxpro
-#facebook_username:  cyclone77
+#facebook_username:  CQ001
 
 
 
@@ -47,10 +47,10 @@ kramdown:
 
 
 # Disqus settings
-#disqus_username: cyclone77
+#disqus_username: CQ001
 
 # Duoshuo settings
-duoshuo_username: cyclone77
+duoshuo_username: CQ001
 # Share component is depend on Comment so we can NOT use share only.
 #duoshuo_share: true                     # set to false if you want to use Comment without Sharing
 
@@ -81,6 +81,6 @@ featured-condition-size: 1              # A tag will be featured if the size of 
 
 # 友情连接
 friends: [{
-    title: "Cyclone77",
-    href: "http://cyclone77.github.io"
+    title: "CQ001",
+    href: "http://CQ001.github.io"
 }]
