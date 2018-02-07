@@ -3,7 +3,7 @@ layout:     post
 title:      javascript Array原型方法
 subtitle:   ""
 date:       2016-01-06 16:05:14
-author:     "Cyclone77"
+author:     "CQ001"
 header-img: "img/post-bg-js-version.jpg"
 permalink:  "/1472014211844"
 tags:

@@ -3,7 +3,7 @@ layout: post
 title:  jQuery滚动条插件
 subtitle:   ""
 date:       2015-12-30 15:03:21
-author:     "Cyclone77"
+author:     "CQ001"
 header-img: "img/post-bg-js-version.jpg"
 permalink:  "/1472014171763"
 tags:

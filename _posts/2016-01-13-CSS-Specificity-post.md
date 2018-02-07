@@ -3,7 +3,7 @@ layout: 	post
 title:  	CSS优先级
 date:   	2016-01-13 16:33:07
 subtitle:   ""
-author:     "Cyclone77"
+author:     "CQ001"
 header-img: "img/post-bg-js-version.jpg"
 permalink:  "/1472014256629"
 tags:

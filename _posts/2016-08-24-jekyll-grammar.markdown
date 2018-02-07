@@ -3,7 +3,7 @@ layout:     post
 title:      jekyll模板、语法
 subtitle:   jekyll是静态网站/博客生成工具，在这里记录一下jekyll的变量及模板语法，jekyll基于Liquid模板进行扩展，大部分可参考Liquid语法
 date:       2016-08-24
-author:     "Cyclone77"
+author:     "CQ001"
 header-img: "img/post-bg-js-version.jpg"
 permalink:  "/1472014322140"
 tags:
